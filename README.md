@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C# object Oriented ...
 - 💞️ I’m looking to collaborate in the same field
 - 📫 How to reach me @shadrackkamau on linkedin
+
+- https://gitshadrack.github.io/my_portfolio/
 - 
 [https://streak-stats.demolab.com/?user=gitshadrack](https://streak-stats.demolab.com/?user=gitshadrack&theme=dark)](https://git.io/streak-stats)
 <!---
